@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=4D03FF&center=true&vCenter=true&lines=Semangat+Kyloo+🔥" alt="kyla">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=4D03FF&center=true&vCenter=true&lines=Semangat+Anak+Muda🔥" alt="kyla">
   </a>
 </p>
 
