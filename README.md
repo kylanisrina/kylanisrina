@@ -1,6 +1,6 @@
 <h2 align="center"> Hello, I'm Kyla Nisrina Anggrahini! 👋 </h2> 
 <p align="center">
-  <img src="me.jpg" alt="Kyla Nisrina">
+  <img src="me.jpg" alt="Kyla Nisrina" style="border-radius:100px;">
 </p>
 
 <p align="center">
