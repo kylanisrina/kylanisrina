@@ -46,7 +46,7 @@
 ## 📫 Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-kylanisrina-blue)](www.linkedin.com/in/kyla-nisrina-409b29274)
 - [![GitHub](https://img.shields.io/badge/GitHub-kylanisrina-green)](https://github.com/kylanisrina)
-- [![GitHub](https://img.shields.io/badge/GitHub-kylanisrina-purple)](https://instagram.com/iam_kynis)
+- [![Instagram](https://img.shields.io/badge/GitHub-kylanisrina-purple)](https://instagram.com/iam_kynis)
 
 ## 🌟 Fun Facts
 - 🧗‍♂️ **Hobbies**: Badminton and Silat
