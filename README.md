@@ -50,7 +50,8 @@
 - 🧗‍♂️ **Hobbies**: Badminton and Silat
 
 ## 🐍 GitHub Snake Animation
-![GitHub Snake](https://github.com/kylanisrina/kylanisrina/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kylanisrina/kylanisrina/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
